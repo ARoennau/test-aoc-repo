@@ -1,0 +1,4 @@
+.env
+.pylintrc
+.vim/**
+__pycache__/**
